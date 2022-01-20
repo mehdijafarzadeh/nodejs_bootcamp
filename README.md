@@ -1,3 +1,8 @@
 # nodejs_bootcamp
 
-## install npm
+## Installatoin
+### make a directory
+    `mkdir 'optional name'`
+    `npm init -y`
+    `npm install express`
+
